@@ -52,6 +52,14 @@ button {
 button:hover {
     background-color: #6c8cff;
 }
+.btn-more {
+    display: none;
+    margin: 0 auto;
+    margin-top: 32px;
+    margin-bottom: 44px;
+    width: 125px;
+    height: 40px;
+}
 
 .gallery {
     display: flex;
